@@ -22,8 +22,9 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "graphqls/index.js"  ],
+    "**/*.tsx",
+    "graphqls/index.js",
+ ],
   "exclude": [
     "node_modules"
   ]
