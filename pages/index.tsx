@@ -1,4 +1,3 @@
-import React from "react"
 import { useQuery } from "@apollo/client"
 import Head from "next/head"
 import Image from "next/image"
