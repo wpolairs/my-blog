@@ -1,8 +1,6 @@
-import React from "react"
 import { useQuery } from "@apollo/client"
 import Head from "next/head"
 import Image from "next/image"
-import { Button } from "@mui/material"
 import { PARTIAL } from "../graphqls"
 import styles from "../styles/Home.module.css"
 
