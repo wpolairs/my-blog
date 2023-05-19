@@ -22,13 +22,13 @@
       {
         "name": "next"
       }
-    ],
-    "strictNullChecks": true
+    ]
   },
   "include": [
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
+    "graphqls/index.js",
     ".next/types/**/*.ts"
   ],
   "exclude": [
