@@ -1,4 +1,5 @@
 fragment Partial on ExchangeRate {
   currency
   rate
+  name
 }
